@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "express": "^4.21.2",
+    "socket.io": "^4.8.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "socket-transmission",
+  "version": "1.0.0",
+  "description": "transmit rtc-peer connection ice from remote to client and vice versa",
+  "main": "server.js",
+  "type": "module",
+  "author": "me",
+  "license": "ISC"
+}
